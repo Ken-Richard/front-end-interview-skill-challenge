@@ -1,0 +1,137 @@
+[
+  {
+    "answer": "C",
+    "choice_a": "Lysosomes",
+    "choice_b": "Ribosomes",
+    "choice_c": "Mitochondria",
+    "choice_d": "Golgi apparatus",
+    "text": "What is called the \"powerhouse\" of a cell because it breaks down nutrients to help make the major energy source of the cell?"
+  },
+  {
+    "answer": "C",
+    "choice_a": "When tumors are removed through surgery",
+    "choice_b": "When cancer treatments result in toxic side effects",
+    "choice_c": "When malignant tumors spread to other parts of the body",
+    "text": "What is metastasis?"
+  },
+  {
+    "answer": "B",
+    "choice_a": "Metabolism",
+    "choice_b": "Homeostasis",
+    "choice_c": "Atrophy",
+    "choice_d": "Neoplasia",
+    "text": "What term refers to keeping a state of balance in the body?"
+  },
+  {
+    "answer": "C",
+    "choice_a": "Epidermis",
+    "choice_b": "Dermis",
+    "choice_c": "Hypodermis",
+    "choice_d": "Corium",
+    "text": "Which part of the skin is the innermost layer?"
+  },
+  {
+    "answer": "D",
+    "choice_a": "Albino-like appearance",
+    "choice_b": "Irregular rash",
+    "choice_c": "Abnormally dry skin",
+    "choice_d": "Yellowing of the skin",
+    "justification": "The skin tends to yellow with jaundice.",
+    "mod": "HSANTMYCO"
+  },
+  {
+    "answer": "A",
+    "choice_a": "Greenstick",
+    "choice_b": "Simple",
+    "choice_c": "Compound",
+    "choice_d": "Comminuted",
+    "text": "In which type of fracture does the bone bend and split, but does not completely break?"
+  },
+  {
+    "answer": "B",
+    "choice_a": "Rheumatoid arthritis",
+    "choice_b": "Osteoarthritis",
+    "text": "Which type of arthritis usually occurs with aging and is known as degenerative joint disease?"
+  },
+  {
+    "answer": "A",
+    "choice_a": "Axial",
+    "choice_b": "Appendicular",
+    "choice_c": "Shoulder girdle",
+    "choice_d": "Pelvic girdle",
+    "text": "Which section of the skeleton forms the main trunk of the body?"
+  },
+  {
+    "answer": "B",
+    "choice_a": "The origin moves, and the insertion does not.",
+    "choice_b": "The origin does not move, and the insertion does.",
+    "choice_c": "Both the origin and insertion move.",
+    "choice_d": "Neither the origin or insertion move.",
+    "justification": "The end of the muscle connected to bone that moves is the insertion. The end that does not move is the origin.",
+    "mod": "HSANTMYCO"
+  },
+  {
+    "answer": "C",
+    "choice_a": "Afferent",
+    "choice_b": "Efferent",
+    "choice_c": "Associative",
+    "text": "What type of neuron is also called an interneuron because it carries messages between the other two types of neurons?"
+  },
+  {
+    "answer": "C",
+    "choice_a": "Sclera",
+    "choice_b": "Choroid coat",
+    "choice_c": "Retina",
+    "choice_d": "Cornea",
+    "text": "In which part of the eye are cones and rods located?"
+  },
+  {
+    "answer": "D",
+    "choice_a": "Red blood cells",
+    "choice_b": "White blood cells",
+    "choice_c": "Platelets",
+    "choice_d": "All of the above",
+    "text": "Which of these items are included in the formed elements of blood?"
+  },
+  {
+    "answer": "A",
+    "choice_a": "Asthma",
+    "choice_b": "Pneumonia",
+    "choice_c": "Lung cancer",
+    "choice_d": "Atelectasis",
+    "text": "Which of these conditions occurs when the bronchial tubes are inflamed and, as a result, obstructed?"
+  },
+  {
+    "answer": "A",
+    "choice_a": "Urinary",
+    "choice_b": "Digestive",
+    "choice_c": "Cardiovascular",
+    "choice_d": "Endocrine",
+    "choice_e": "Skeletal",
+    "text": "Which body system's main function is to filter the blood and eliminate metabolic waste?"
+  },
+  {
+    "answer": "A",
+    "choice_a": "Or",
+    "choice_b": "Ot",
+    "choice_c": "Oss",
+    "choice_d": "Col",
+    "text": "Which of these word roots indicates mouth?"
+  },
+  {
+    "answer": "A",
+    "choice_a": "Substances dissolved in water or within cells that conduct current",
+    "choice_b": "The smallest type of nerve",
+    "choice_c": "The study of nerve cells",
+    "choice_d": "Destruction of nutrients before they reach the body cells",
+    "text": "What is an electrolyte?"
+  },
+  {
+    "answer": "A",
+    "choice_a": "b.i.d.",
+    "choice_b": "b.r.",
+    "choice_c": "b.r.p.",
+    "choice_d": "b.m.",
+    "text": "Which of these abbreviations indicates twice a day?"
+  }
+]
