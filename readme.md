@@ -4,7 +4,7 @@ We will not be able to answer questions about the exercise. Use your discretion 
 
 ## Specific Requirements
 * Use the language/framework/technology if your choice.
-* We will provide a JSON dataset of questions for the quiz.
+* Use the questions.json dataset in this repo.
 * You aren’t required to build a back-end database for this application.
 * You aren't require to build a mobile/responsive application.
 * The experience should be targeted at 9th grade students.
