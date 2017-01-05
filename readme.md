@@ -9,7 +9,7 @@ Please complete this skill test on your own time. Use the technology and tools o
 We will not be able to answer questions about the exercise. Use your discretion and creativity to fill in the gaps.
 
 ## Specific Requirements
-* Use the language/framework/technology if your choice.
+* Use the language/framework/technology of your choice.
 * Use the questions.json dataset in this repo.
 * You aren’t required to build a back-end database for this application.
 * You aren’t require to build a mobile/responsive application.
@@ -18,6 +18,7 @@ We will not be able to answer questions about the exercise. Use your discretion 
 * Upon submission, the quiz will grade the quiz and show the grade to the student.
 * Pull a random selection of 10 questions from the database of questions.
 * Questions should appear in a random order each time the quiz is taken.
+* A few tests would be nice, but comprehensive coverage isn't required.
 
 ## Evaluation Criteria
 * Clarity of User Experience
